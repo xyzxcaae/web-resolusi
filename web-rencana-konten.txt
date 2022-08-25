@@ -1,0 +1,5 @@
+RENCANA KONTEN
+-Java script
+-PHP Frameworks
+-Interview
+-Freelance
